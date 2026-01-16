@@ -1,0 +1,27 @@
+{
+  "version": "3.103.35301.0",
+  "course_id": "5uf21pvEW4B",
+  "title": "Untitled1",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6SOQR2lPoOi",
+      "title": "Intro Slide",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 607
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
